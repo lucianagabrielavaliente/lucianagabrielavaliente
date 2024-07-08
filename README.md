@@ -34,5 +34,13 @@ I am a student of Information Systems Engineering at Universidad Tecnológica Na
 
 - **Spanish:** Native proficiency
 - **English:** Advanced
+  
+## 📈 GitHub Stats
+
+![Luciana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianagabrielavaliente&show_icons=true&theme=radical)
+
+## 📊 Language Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianagabrielavaliente&layout=compact&theme=radical)
 
 Feel free to reach out if you have any questions or collaboration opportunities!
