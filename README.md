@@ -6,6 +6,10 @@ I am a student of Information Systems Engineering at Universidad Tecnológica Na
 - **Teaching Assistant:** Assisting in the course "Systems and Business Processes" for first-year students.
 - **Freelance Work:** Beginning my journey as a freelance data scientist.
 
+## Personal Portfolio 🗂️
+
+[My Portfolio](https://lucianagabrielavaliente.github.io/)
+
 ## Contact Information 📧
 
 - **Email:** [valientelucianagabriela@gmail.com](mailto:valientelucianagabriela@gmail.com)
